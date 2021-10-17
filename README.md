@@ -1,2 +1,3 @@
 # New-repo
-First repo
+First rep
+This is a first repo of mine.
